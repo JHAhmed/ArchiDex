@@ -1,0 +1,137 @@
+body {
+  background-color: #15222F;
+  color: white;
+  overflow-x: hidden;
+}
+
+.brand-logo{
+  width: 3rem;
+  height: 3rem;
+  text-align: center;
+  margin: 2rem auto;
+  display: block;
+}
+
+.container-fluid {
+  padding: 5% 10%;
+}
+
+.title-archi {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 4rem;
+}
+
+.title-dex {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+}
+
+.sub-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-size: 2rem;
+}
+
+.try-out-button {
+  background-color: white;
+  border-radius: 2rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.5rem;
+  margin: 4rem 0 4rem 0;
+}
+
+.try-out-icon {
+  margin-left: 2rem;
+}
+
+.big-div {
+  background-color: #8b9196;
+  border-radius: 2rem;
+  padding: 0.5rem;
+}
+
+.new-column {
+  background-color: #c5c8ca;
+  border-radius: 2rem;
+  padding: 0;
+}
+
+/* #c5c8ca  - NEW  */
+/* #8b9196  - Update */
+
+
+.new-button {
+  background-color: white;
+  width: 100%;
+  margin: 0;
+  border-radius: 2rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 0.8rem;
+}
+
+/*
+
+.update-button {
+  background-color: white;
+  border-radius: 2rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 0.8rem;
+  opacity: 0.5;
+} */
+
+.right-arrow {
+  margin-left: 4rem;
+}
+
+.title-image {
+  width: 60%;
+  float: right;
+  bottom: 12rem;
+  left: 12rem;
+  position: relative;
+  z-index: -1;
+}
+
+.title-div {
+  padding: 0;
+}
+
+
+/* Footer Styling */
+
+.page-end {
+  background-color: white;
+  color: #15222F;
+}
+
+.footer-row {
+  margin: 10% 0 0 0;
+}
+
+.footer-text {
+  /* width: 80%; */
+  margin: 5% auto;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.social-media-icons {
+  margin: 1rem 2rem 2rem 2rem;
+}
+
+.social-icons {
+  text-align: center;
+  /* margin: 5% auto; */
+}
+
+.copyright {
+  text-align: center;
+  margin-bottom: 0;
+}
