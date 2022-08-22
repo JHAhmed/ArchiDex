@@ -116,4 +116,8 @@ body {
   .right-arrow {
     margin: 2rem;
   }
+
+  .update-button {
+    padding: 0rem 1rem;
+  }
 }
